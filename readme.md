@@ -26,7 +26,6 @@ This aims to be the most comprehensive, well-organized, and free DSA resource hu
 3.  [Top GitHub Repositories](#-top-github-repositories)
 4.  [Company-Wise Questions](#-company-wise-questions)
 5.  [How to Use This Guide](#-how-to-use-this-guide)
-6.  [Contributing](#-contributing)
 
 
 
@@ -108,3 +107,4 @@ Every bug fixed, every problem solved, and every concept mastered gets you one s
  Happy learning! 💻💡
 
 **[↥ Back to Top](#-table-of-contents)**
+
